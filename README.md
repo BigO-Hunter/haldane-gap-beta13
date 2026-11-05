@@ -1,5 +1,13 @@
 # Periodic spin-one Haldane gap: gamma_L > 771/5000 at inverse temperature 13
 
+> **CORRECTION — 2026-11-05.** The 0.1542 claim below is **not certified by
+> this repository**. Independent replay found four manual residual overrides
+> that strengthen the certificate inputs; without them the checker fails before
+> coverage at the board domain. The physical claim is not disproved, but this
+> artifact supports only much lower rigorous targets. See
+> [`CORRECTION.md`](CORRECTION.md). The text below is retained as historical
+> claim material, not as current evidence.
+
 For every integer L >= 68, at J=1, the periodic spin-one Heisenberg chain has a
 unique ground state and a spectral gap
 
